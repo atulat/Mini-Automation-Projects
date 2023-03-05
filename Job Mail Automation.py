@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 from email import encoders
 
 # Email details
-gmail_user = "atulat1996@gmail.com"y
+gmail_user = "atulat1996@gmail.com"
 gmail_password = ""
 recipient = ""
 subject = "Application for Data Science / Machine Learning cum Python Developer position"
